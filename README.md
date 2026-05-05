@@ -1,6 +1,6 @@
 To run this mcp server locally add below json to your mcp client - 
 
-'''json
+~~~json
     "Deployment demo - Add two numbers": {
       "command": "uvx",
       "args": [
@@ -10,4 +10,4 @@ To run this mcp server locally add below json to your mcp client -
       ]
     }
 
-This should give access to this tool to your mcp client 
+This should give access to this tool to your mcp client! 
